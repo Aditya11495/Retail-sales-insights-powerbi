@@ -5,7 +5,7 @@ The dashboard provides key insights into sales performance across product catego
 
 The objective of this project is to analyze business sales data and derive actionable insights for decision-making.
 
-🛠️ Tools & Technologies Used
+**Tools & Technologies Used**
 
 Power BI
 
@@ -17,7 +17,7 @@ Data Cleaning & Transformation
 
 Data Visualization
 
-📁 Dataset Information
+**Dataset Information**
 
 The dataset contains:
 
@@ -37,7 +37,9 @@ Sales Amount
 
 Customer Information
 
-📈 Dashboard Features
+**Dashboard Features**
+
+
 1️⃣ Sales by Sub-Category
 
 Identifies top-performing product sub-categories
@@ -78,7 +80,8 @@ Shows distribution of sales across different orders
 
 Helps identify high-value transactions
 
-📊 Key Insights
+
+**Key Insights**
 
 Consumer segment contributes the highest share of total sales.
 
