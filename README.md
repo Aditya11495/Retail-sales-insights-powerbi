@@ -91,7 +91,8 @@ Phones and Chairs are top-performing sub-categories.
 
 Certain products dominate overall sales contribution.
 
-🎯 Business Impact
+
+**Business Impact**
 
 This dashboard helps:
 
