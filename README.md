@@ -1,11 +1,10 @@
- **Project Overview**
+# Project Overview
 
 This project presents a comprehensive Sales Analysis Dashboard developed using Power BI.
 The dashboard provides key insights into sales performance across product categories, regions, customer segments, and individual orders.
-
 The objective of this project is to analyze business sales data and derive actionable insights for decision-making.
 
-**Tools & Technologies Used**
+# Tools & Technologies Used
 
 Power BI
 
@@ -37,7 +36,7 @@ Sales Amount
 
 Customer Information
 
-**Dashboard Features**
+# Dashboard Features
 
 
 1️⃣ Sales by Sub-Category
@@ -81,7 +80,7 @@ Shows distribution of sales across different orders
 Helps identify high-value transactions
 
 
-**Key Insights**
+# Key Insights
 
 Consumer segment contributes the highest share of total sales.
 
@@ -92,7 +91,7 @@ Phones and Chairs are top-performing sub-categories.
 Certain products dominate overall sales contribution.
 
 
-**Business Impact**
+# siness Impact
 
 This dashboard helps:
 
